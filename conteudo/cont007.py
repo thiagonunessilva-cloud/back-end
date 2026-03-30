@@ -1,0 +1,2 @@
+IMPORTAÇÃO DE BIBLIOTECAS
+Para conhecer as bibliotecas em Python, podemos acessar o python.org. Indo em docs eu posso escolher a versão. Podemos saber a versão que estamos utilizando olhando no canto inferior direito do vs code. Vamos clicar em Library reference. E vamos procurar o tópico Numeric and Mathematical Modules, onde temos todas as funcionalidades e exemplos. Por exemplo vamos voltar e ver a biblioteca ramdom que é a biblioteca de números aleatórios. Vamos no vs code importar essa biblioteca.
